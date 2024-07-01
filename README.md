@@ -1,5 +1,5 @@
-#This respository is about building a detection model of detecting car liences plate
-##Using yolov8 model to detect car plate and easyocr to read that plate
+# This respository is about building a detection model of detecting car liences plate
+## Using yolov8 model to detect car plate and easyocr to read that plate
 
 First of all, dataset we used is from [Kaggle](https://www.kaggle.com/datasets)
 This dataset is separated into test, train, validation files with images and their label
